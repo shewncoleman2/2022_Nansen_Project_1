@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+    
+   
+   
+  
+}
+
+body{
+    color: white;
+}
+
+
+
+
+
+.rounded{
+    border-radius: 50%;
+}
+
